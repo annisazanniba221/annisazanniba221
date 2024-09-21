@@ -4,7 +4,7 @@
     💞️ I’m looking to collaborate on open-source projects related to environmental sustainability and education.
     📫 How to reach me: You can send me a message here on GitHub or reach out via email at annisazanniba221@example.com.
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=afifcapcut112&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=afifcapcut112&theme=black-ice)](https://github.com/DenverCoder1/github-readme-streak-stats)
 <!---
 annisazanniba221/annisazanniba221 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
